@@ -6,7 +6,7 @@ It's part of [Android App Development in Kotlin course on Udacity](https://www.u
 
 ## Screenshots
 
-![Screenshot 0](screenshots/screen0.png) ![Screenshot 1](screenshots/screen1.png) ![Screenshot 2](screenshots/screen2.png)
+<img src="screenshots/screen3.png" width=30% height=50%> <img src="screenshots/screen2.png" width=30% height=50%> <img src="screenshots/screen1.png" width=30% height=50%>
 
 
 * MVVM Architecture
